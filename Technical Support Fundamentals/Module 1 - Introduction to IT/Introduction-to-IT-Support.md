@@ -10,4 +10,6 @@ are at a disadvantage simply because they lack the skills of a basic, common uti
 Configuring
 
 ## First Assigment Completed
-The section known as Introduction to IT Support had me complete my first assignment at the end.
+The section known as Introduction to IT Support had me complete my first assignment at the end. The assignment instructed me to write a paragraph about when I solved a minor technical issue or got helpful IT support, describe one problem that I can imagine an IT
+Support Specialist encountering, and explin why the problem falls under the expertise of an IT Support Specialist.
+![image alt](https://github.com/3t4an/Google-IT-Support-Professional-Certificate/blob/main/Technical%20Support%20Fundamentals/Module%201%20-%20Introduction%20to%20IT/First_Graded_Assignment.png?raw=true)
